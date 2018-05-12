@@ -1,0 +1,25 @@
+_repo: Little-Abe-or-the-Bishop-of-Berry-Brow--13-Being-the-Life-of-Abraham-Lockwood_19990
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jewell, F.
+    gutenberg_agent_id: '9014'
+    url: http://www.gutenberg.org/2009/agents/9014
+description: ''
+gutenberg_issued: '2006-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Methodist Church -- Bishops -- England -- Biography'
+- !lcsh 'Lockwood, Abraham, 1792-1871'
+title: "Little Abe, or, the Bishop of Berry Brow\r\nBeing the Life of Abraham Lockwood"
+url: http://www.gutenberg.org/ebooks/19990
